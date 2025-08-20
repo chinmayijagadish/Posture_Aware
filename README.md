@@ -44,8 +44,6 @@ Windows (PowerShell)
 ```bash
 .\venv\Scripts\activate
 ```
----
-
 Linux/Mac
 ```bash
 source venv/bin/activate
@@ -75,7 +73,7 @@ Go to 👉 http://127.0.0.1:5000 in your browser.
 
 📊 Dataset
 
-- The project uses a Posture Recognition Dataset containing labeled images/data of correct and incorrect postures.
+- The project uses a Posture Recognition Dataset containing labeled images/data of good and bad postures.
 
 - Classes: Correct, Incorrect
 

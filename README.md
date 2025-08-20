@@ -75,7 +75,7 @@ Go to 👉 http://127.0.0.1:5000 in your browser.
 
 - The project uses a Posture Recognition Dataset containing labeled images/data of good and bad postures.
 
-- Classes: Correct, Incorrect
+- Classes: Good,Bad
 
 - Features include body keypoints or extracted features for classification.
 

@@ -31,7 +31,7 @@ This project is built using **Python, scikit-learn, Flask, and VS Code** with a 
 
 ### 1️⃣ Clone the Repository  
 ```bash
-git clone <your-repo-link>
+git clone https://github.com/chinmayijagadish/Posture_Aware.git
 cd posture_aware_study_assistant
 ```
 
@@ -70,6 +70,7 @@ python app.py
 ```
 
 Go to 👉 http://127.0.0.1:5000 in your browser.
+
 ---
 
 📊 Dataset
